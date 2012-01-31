@@ -1,7 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =1
 let g:netrw_dirhist_1='/Users/mgj/.work/fx/node_modules'
-let g:netrw_dirhist_2='/Volumes/proton/work/ubnz/.git'
-let g:netrw_dirhist_3='/Volumes/proton/bin/.git'
-let g:netrw_dirhist_4='/Volumes/proton/work/ubnz'
-let g:netrw_dirhist_5='/Volumes/proton/work/ubnz/.dotfiles'
